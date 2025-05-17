@@ -1,5 +1,7 @@
 # LAB-MSOA
 
+![](https://img.shields.io/badge/WindowsForms-RR4) ![](https://img.shields.io/badge/C#-FFDD33)
+
 Acest repository conține exercițiile realizate pe parcursul laboratoarelor de MSOA. Aici se pot gasi exercitiile de la laborataore rezolvate cat si modele de test.
 
 Ce vei găsi aici:
@@ -12,13 +14,13 @@ Ce vei găsi aici:
 
 🔹 Funcționalități precum:
 
-  ###🔹Adăugare / Ștergere / Modificare în baza de date
+  🔹Adăugare / Ștergere / Modificare în baza de date
   
-  ###🔹Căutare pacienți
+  🔹Căutare pacienți
   
-  ###🔹fișare imagini radiologice
+  🔹fișare imagini radiologice
   
-  ###🔹Drag & Drop
+  🔹Drag & Drop
 
 # ⚙️ Tehnologii utilizate:
 
