@@ -1,0 +1,11 @@
+C:\Users\crisa\ITEC\Lan7MSOA\Lan7MSOA\bin\Debug\Lan7MSOA.exe.config
+C:\Users\crisa\ITEC\Lan7MSOA\Lan7MSOA\bin\Debug\Lan7MSOA.exe
+C:\Users\crisa\ITEC\Lan7MSOA\Lan7MSOA\bin\Debug\Lan7MSOA.pdb
+C:\Users\crisa\ITEC\Lan7MSOA\Lan7MSOA\obj\Debug\Lan7MSOA.csproj.AssemblyReference.cache
+C:\Users\crisa\ITEC\Lan7MSOA\Lan7MSOA\obj\Debug\Lan7MSOA.Form1.resources
+C:\Users\crisa\ITEC\Lan7MSOA\Lan7MSOA\obj\Debug\Lan7MSOA.Properties.Resources.resources
+C:\Users\crisa\ITEC\Lan7MSOA\Lan7MSOA\obj\Debug\Lan7MSOA.csproj.GenerateResource.cache
+C:\Users\crisa\ITEC\Lan7MSOA\Lan7MSOA\obj\Debug\Lan7MSOA.csproj.CoreCompileInputs.cache
+C:\Users\crisa\ITEC\Lan7MSOA\Lan7MSOA\obj\Debug\Lan7MSOA.exe
+C:\Users\crisa\ITEC\Lan7MSOA\Lan7MSOA\obj\Debug\Lan7MSOA.pdb
+C:\Users\crisa\ITEC\Lan7MSOA\Lan7MSOA\obj\Debug\Lan7MSOA.Form2.resources
