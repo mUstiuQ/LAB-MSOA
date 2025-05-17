@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Lab5_continuare\Lab5_continuare\bin\Debug\Lab5_continuare.exe.config
+C:\Users\LENOVO\source\repos\Lab5_continuare\Lab5_continuare\bin\Debug\Lab5_continuare.exe
+C:\Users\LENOVO\source\repos\Lab5_continuare\Lab5_continuare\bin\Debug\Lab5_continuare.pdb
+C:\Users\LENOVO\source\repos\Lab5_continuare\Lab5_continuare\obj\Debug\Lab5_continuare.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Lab5_continuare\Lab5_continuare\obj\Debug\MainWindow.baml
+C:\Users\LENOVO\source\repos\Lab5_continuare\Lab5_continuare\obj\Debug\MainWindow.g.cs
+C:\Users\LENOVO\source\repos\Lab5_continuare\Lab5_continuare\obj\Debug\App.g.cs
+C:\Users\LENOVO\source\repos\Lab5_continuare\Lab5_continuare\obj\Debug\Lab5_continuare_MarkupCompile.cache
+C:\Users\LENOVO\source\repos\Lab5_continuare\Lab5_continuare\obj\Debug\Lab5_continuare.g.resources
+C:\Users\LENOVO\source\repos\Lab5_continuare\Lab5_continuare\obj\Debug\Lab5_continuare.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Lab5_continuare\Lab5_continuare\obj\Debug\Lab5_continuare.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Lab5_continuare\Lab5_continuare\obj\Debug\Lab5_continuare.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Lab5_continuare\Lab5_continuare\obj\Debug\Lab5_continuare.exe
+C:\Users\LENOVO\source\repos\Lab5_continuare\Lab5_continuare\obj\Debug\Lab5_continuare.pdb
