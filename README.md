@@ -1,6 +1,6 @@
 # LAB-MSOA
 
-![](https://img.shields.io/badge/WindowsForms-RR4) ![](https://img.shields.io/badge/C#-FFDD33)
+![](https://img.shields.io/badge/WindowsForms-RR4) ![](https://img.shields.io/badge/CSharp-FFDD33)
 
 Acest repository conține exercițiile realizate pe parcursul laboratoarelor de MSOA. Aici se pot gasi exercitiile de la laborataore rezolvate cat si modele de test.
 
