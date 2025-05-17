@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\LAB1_MSOA_REFACUT\LAB1_MSOA_REFACUT\obj\Debug\LAB1_MSOA_REFACUT.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\LAB1_MSOA_REFACUT\LAB1_MSOA_REFACUT\obj\Debug\LAB1_MSOA_REFACUT.Form1.resources
+C:\Users\LENOVO\source\repos\LAB1_MSOA_REFACUT\LAB1_MSOA_REFACUT\obj\Debug\LAB1_MSOA_REFACUT.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\LAB1_MSOA_REFACUT\LAB1_MSOA_REFACUT\obj\Debug\LAB1_MSOA_REFACUT.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\LAB1_MSOA_REFACUT\LAB1_MSOA_REFACUT\obj\Debug\LAB1_MSOA_REFACUT.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LAB1_MSOA_REFACUT\LAB1_MSOA_REFACUT\bin\Debug\LAB1_MSOA_REFACUT.exe.config
+C:\Users\LENOVO\source\repos\LAB1_MSOA_REFACUT\LAB1_MSOA_REFACUT\bin\Debug\LAB1_MSOA_REFACUT.exe
+C:\Users\LENOVO\source\repos\LAB1_MSOA_REFACUT\LAB1_MSOA_REFACUT\bin\Debug\LAB1_MSOA_REFACUT.pdb
+C:\Users\LENOVO\source\repos\LAB1_MSOA_REFACUT\LAB1_MSOA_REFACUT\obj\Debug\LAB1_MSOA_REFACUT.exe
+C:\Users\LENOVO\source\repos\LAB1_MSOA_REFACUT\LAB1_MSOA_REFACUT\obj\Debug\LAB1_MSOA_REFACUT.pdb
