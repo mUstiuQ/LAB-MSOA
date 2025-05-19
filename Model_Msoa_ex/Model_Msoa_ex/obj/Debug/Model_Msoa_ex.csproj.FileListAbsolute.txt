@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Model_Msoa_ex\Model_Msoa_ex\bin\Debug\TransportDB.mdf
+C:\Users\LENOVO\source\repos\Model_Msoa_ex\Model_Msoa_ex\bin\Debug\TransportDB_log.ldf
+C:\Users\LENOVO\source\repos\Model_Msoa_ex\Model_Msoa_ex\bin\Debug\Model_Msoa_ex.exe.config
+C:\Users\LENOVO\source\repos\Model_Msoa_ex\Model_Msoa_ex\bin\Debug\Model_Msoa_ex.exe
+C:\Users\LENOVO\source\repos\Model_Msoa_ex\Model_Msoa_ex\bin\Debug\Model_Msoa_ex.pdb
+C:\Users\LENOVO\source\repos\Model_Msoa_ex\Model_Msoa_ex\obj\Debug\Model_Msoa_ex.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Model_Msoa_ex\Model_Msoa_ex\obj\Debug\Model_Msoa_ex.AddCarForm.resources
+C:\Users\LENOVO\source\repos\Model_Msoa_ex\Model_Msoa_ex\obj\Debug\Model_Msoa_ex.AddExpeditionForm.resources
+C:\Users\LENOVO\source\repos\Model_Msoa_ex\Model_Msoa_ex\obj\Debug\Model_Msoa_ex.Form1.resources
+C:\Users\LENOVO\source\repos\Model_Msoa_ex\Model_Msoa_ex\obj\Debug\Model_Msoa_ex.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Model_Msoa_ex\Model_Msoa_ex\obj\Debug\Model_Msoa_ex.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Model_Msoa_ex\Model_Msoa_ex\obj\Debug\Model_Msoa_ex.exe
+C:\Users\LENOVO\source\repos\Model_Msoa_ex\Model_Msoa_ex\obj\Debug\Model_Msoa_ex.pdb
+C:\Users\LENOVO\source\repos\Model_Msoa_ex\Model_Msoa_ex\obj\Debug\Model_Msoa_ex.exe.config
