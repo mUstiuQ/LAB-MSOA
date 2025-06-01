@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\prob2_ptP2\prob2_ptP2\bin\Debug\prob2_ptP2.exe.config
+C:\Users\LENOVO\source\repos\prob2_ptP2\prob2_ptP2\bin\Debug\prob2_ptP2.exe
+C:\Users\LENOVO\source\repos\prob2_ptP2\prob2_ptP2\bin\Debug\prob2_ptP2.pdb
+C:\Users\LENOVO\source\repos\prob2_ptP2\prob2_ptP2\obj\Debug\prob2_ptP2.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\prob2_ptP2\prob2_ptP2\obj\Debug\prob2_ptP2.Form1.resources
+C:\Users\LENOVO\source\repos\prob2_ptP2\prob2_ptP2\obj\Debug\prob2_ptP2.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\prob2_ptP2\prob2_ptP2\obj\Debug\prob2_ptP2.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\prob2_ptP2\prob2_ptP2\obj\Debug\prob2_ptP2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\prob2_ptP2\prob2_ptP2\obj\Debug\prob2_ptP2.exe
+C:\Users\LENOVO\source\repos\prob2_ptP2\prob2_ptP2\obj\Debug\prob2_ptP2.pdb
